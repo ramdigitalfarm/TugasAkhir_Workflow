@@ -1,0 +1,6 @@
+{
+  "name": "Workflow Coordination and Revision Control System",
+  "description": "Progressive Web App (PWA) to coordinate workflows, distribute shop drawings, track revisions, and send realtime notifications across multiple divisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
